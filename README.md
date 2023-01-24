@@ -1,2 +1,2 @@
 # IHI-UI
-HTML and CSS
+html and CSS
