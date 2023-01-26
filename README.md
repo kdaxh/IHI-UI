@@ -1,4 +1,4 @@
 # Ifakara Health Institute - UI 
 ## Malaria prevelance predictor
 
-HTML and css
+HTML and CSS
